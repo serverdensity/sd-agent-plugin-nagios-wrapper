@@ -3,6 +3,11 @@ Nagios plugin wrapper for sd-agent
 
 If you are already using Nagios and want to move to Server Density, you may not want to rewrite all your Nagios plugins. This sd-agent plugin will execute your Nagios plugins, then report the data back to Server Density.
 
+New Repository Location
+-----------------------
+
+This plugin has been merged into [SD Agent Pugins](https://github.com/serverdensity/sd-agent-plugins) repository, you will be able to get the code from there.
+
 Plugin types
 ------------
 
